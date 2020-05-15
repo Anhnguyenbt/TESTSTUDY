@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45262" started-at="2020-05-15T09:16:19Z" finished-at="2020-05-15T09:17:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45262" started-at="2020-05-15T09:16:19Z" finished-at="2020-05-15T09:17:04Z">
+      <class name="Verz.tangsabc.Countries_master">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="beforeTest" is-config="true" duration-ms="7087" started-at="2020-05-15T09:16:19Z" finished-at="2020-05-15T09:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="pub()[pri:0, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="pub" is-config="true" duration-ms="7357" started-at="2020-05-15T09:16:26Z" depends-on-methods="basetangs.base.beforeTest" finished-at="2020-05-15T09:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pub -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2020-05-15T09:16:33Z" finished-at="2020-05-15T09:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="t_createcountrie()[pri:1, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="t_createcountrie" duration-ms="9906" started-at="2020-05-15T09:16:33Z" finished-at="2020-05-15T09:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t_createcountrie -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2020-05-15T09:16:43Z" finished-at="2020-05-15T09:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="t_updatename()[pri:2, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="t_updatename" duration-ms="19809" started-at="2020-05-15T09:16:43Z" finished-at="2020-05-15T09:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t_updatename -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2020-05-15T09:17:03Z" finished-at="2020-05-15T09:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="t_searchbyname()[pri:3, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="t_searchbyname" duration-ms="325" started-at="2020-05-15T09:17:03Z" finished-at="2020-05-15T09:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t_searchbyname -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Verz.tangsabc.Countries_master@3ffc5af1]" name="afterClass" is-config="true" duration-ms="735" started-at="2020-05-15T09:17:03Z" finished-at="2020-05-15T09:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Verz.tangsabc.Countries_master -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

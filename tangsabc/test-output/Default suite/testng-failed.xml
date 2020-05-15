@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Verz.tangsabc.Countries_master">
+        <methods>
+          <include name="searchbyname"/>
+          <include name="BeforeMethod"/>
+          <include name="pub"/>
+          <include name="createcountrie"/>
+          <include name="beforeTest"/>
+          <include name="afterClass"/>
+          <include name="updatename"/>
+        </methods>
+      </class> <!-- Verz.tangsabc.Countries_master -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
